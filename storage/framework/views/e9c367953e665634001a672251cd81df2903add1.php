@@ -1,0 +1,2 @@
+<?php echo $__env->make('Review::frontend.form', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php /**PATH /www/wwwroot/nileview.dokkan.design/v1/themes/BC/Tour/Views/frontend/layouts/details/tour-review.blade.php ENDPATH**/ ?>

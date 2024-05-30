@@ -1,0 +1,1 @@
+<?php /**PATH /www/wwwroot/nileview.dokkan.design/v1/themes/BC/Tour/Views/frontend/layouts/details/open-hours.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+<?php echo $__env->make("Layout::user", \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /www/wwwroot/nileview.dokkan.design/v1/resources/views/layouts/user.blade.php ENDPATH**/ ?>
